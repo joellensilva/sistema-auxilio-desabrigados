@@ -1,0 +1,10 @@
+tipo,descricao,centro,genero,tamanho,quantidade,unidadeDeMedida,validade
+3,Camiseta,1,M,M,2,,
+3,Calça,2,F,G,7,,
+2,Escova de Dentes,3,,,9,,
+2,Sabonete,1,,,5,,
+1,Arroz,2,,,7,Kg,2024-12-31
+1,Feijão,3,,,6,Kg,2024-11-30
+3,Bermuda,1,M,P,2,,
+1,Macarrão,1,,,1,Kg,2025-01-15
+2,Escova de Dentes,2,,,10,,
